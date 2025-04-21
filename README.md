@@ -57,16 +57,53 @@ This project focuses on analyzing CO₂ emissions across supply chain sectors us
   - Transitioning maritime shipping to cleaner fuels
  
 ##  Visual Insights
+### 🌍 Global CO₂ Emissions Over Time  
+![Global CO₂ Emissions](assets/global_co2_over_time.png)
+Shows the rise in global CO₂ emissions across decades.  
+Highlights the need for global efforts in carbon reduction across all industries.
+
+### 🧭 Top 10 CO₂ Emitting Regions  
+![Top 10 Regions](assets/Top10_co2_emitting_regions.png)
+Compares average emissions across the top 10 emitting countries/regions.  
+Useful for identifying historically high-polluting regions in supply chains.
+
+### 🏭 CO₂ Emissions by Sector with Fluctuations (2010–2020)  
+![Emissions by Sector](assets/stacked_emissions_by_sector_fluctuating.png)
+Shows emission contributions by key sectors like transport, electricity, and construction.  
+Reveals which parts of the supply chain are most carbon-intensive over time.
+
+### 🚚 Year-wise Emissions by Freight Mode (2010–2020)  
+![Freight Emissions Over Time](assets/yearwise_freight_emissions_2010_2020.png)
+Tracks CO₂ emissions from road, rail, air, and maritime freight over 11 years.  
+Highlights road and maritime shipping as dominant contributors requiring optimization.
 
 
-**Key Results**
+## Key Takeaways
 
-Identified key emission hotspots in transport, manufacturing, and electricity sectors.
-Highlighted the most CO₂-intensive transport modes and countries.
-Suggested optimization strategies to reduce supply chain emissions.
+### 🔌 Sourcing & Procurement
+- Electricity and heat production generate the most emissions.
+- Urgent need for sustainable sourcing of energy and raw materials.
 
-**Future Scope**
+### 🚛 Logistics & Transportation
+- Road freight is the most polluting transport mode.
+- Optimization strategies: route planning, fuel efficiency, electric vehicles.
 
-Incorporate more granular datasets for specific supply chain stages.
-Apply predictive analytics to forecast emissions based on future logistics scenarios.
-Extend the analysis to evaluate alternative fuel usage and other sustainability metrics.
+### 🛳️ Maritime Transport
+- Bunker fuels used in shipping are major contributors.
+- Push for cleaner fuels: LNG, biofuels, hydrogen.
+  
+##  Technologies Used
+
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Jupyter Notebook
+- GLEC Framework Logic
+- CO₂e Computation using GWP values
+
+  
+## Future Scope
+
+- Integrate fuel-type-specific datasets
+- Predictive modeling for CO₂ trend forecasting
+- Dashboard for sustainability KPIs
+- Region-specific sustainability planning tools
+
