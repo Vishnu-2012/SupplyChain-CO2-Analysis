@@ -14,6 +14,7 @@ This project focuses on analyzing CO₂ emissions across supply chain sectors us
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Data Sources](#data-sources)
+- [Data Flow Diagram](data-flow-diagram)
 - [Methodology](#methodology)
 - [Visual Insights](#visual-insights)
 - [Key Takeaways](#key-takeaways)
@@ -27,6 +28,11 @@ This project focuses on analyzing CO₂ emissions across supply chain sectors us
 - **Freight & Container Transport Data** (2000–2020)
 - **GHG Emission Factors Dataset** (CO₂, CH₄, N₂O)
 - **GLEC Framework** for standardized transport emissions mapping
+
+##  Data Flow Diagram 
+This diagram illustrates how data flows through the project — from raw collection to final analysis and actionable outputs.
+
+![Data Flow](assets/supplychain_co2_dataflow.png)
 
  ## Methodology
  
