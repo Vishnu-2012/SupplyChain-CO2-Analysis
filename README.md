@@ -14,7 +14,7 @@ This project focuses on analyzing CO₂ emissions across supply chain sectors us
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Data Sources](#data-sources)
-- [Data Flow Diagram](data-flow-diagram)
+- [Data Flow Diagram](#data-flow-diagram)
 - [Methodology](#methodology)
 - [Visual Insights](#visual-insights)
 - [Key Takeaways](#key-takeaways)
