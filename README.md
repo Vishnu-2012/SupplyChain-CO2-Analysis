@@ -68,11 +68,6 @@ This diagram illustrates how data flows through the project — from raw collect
 Shows the rise in global CO₂ emissions across decades.  
 Highlights the need for global efforts in carbon reduction across all industries.
 
-### 🧭 Top 10 CO₂ Emitting Regions  
-![Top 10 Regions](assets/Top10_co2_emitting_regions.png)
-Compares average emissions across the top 10 emitting countries/regions.  
-Useful for identifying historically high-polluting regions in supply chains.
-
 ### 🏭 CO₂ Emissions by Sector with Fluctuations (2010–2020)  
 ![Emissions by Sector](assets/stacked_emissions_by_sector_fluctuating.png)
 Shows emission contributions by key sectors like transport, electricity, and construction.  
